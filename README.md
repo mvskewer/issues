@@ -1,6 +1,4 @@
-# articles
-an archive of all our articles' digital releases
+# issues
+an archive of all our issues' digital releases
 
-but it's also a website I guess
-
-[moundsviewskewer.github.io/articles](https://moundsviewskewer.github.io/articles)
+moved to [mvskewer.vercel.app/issues](https://mvskewer.vercel.app/issues)
